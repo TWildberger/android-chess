@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AndroidChess43</string>
+    <string name="undo">undo</string>
+    <string name="ai">AI</string>
+    <string name="draw">Draw</string>
+    <string name="resign">Resign</string>
+    <string name="gameName">Chess</string>
+    <string name="play_game">Play Game</string>
+    <string name="play_recorded_game">Play Recorded Game</string>
+    <string name="play_two_player_chess_game">Play Two-Player Chess Game</string>
+    <string name="next_move">Next Move</string>
+    <string name="my_saved_games">My Saved Games</string>
+    <string name="save_game">Save Game</string>
+    <string name="do_not_save_game">Don\'t Save</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="end_recorded_game">Back To Home</string>
+    <string name="resign_button">Resign</string>
+    <string name="no_resign">Cancel</string>
+    <string name="draw_heading">You have been offered a draw</string>
+
+
+    <string-array name="pieces">
+        <item>Queen</item>
+        <item>Knight</item>
+        <item>Bishop</item>
+        <item>Rook</item>
+    </string-array>
+    <string-array name="sort">
+        <item>Sort by Title</item>
+        <item>Sort by Date</item>
+    </string-array>
+</resources>
